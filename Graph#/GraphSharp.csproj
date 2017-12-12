@@ -407,10 +407,6 @@
     <Compile Include="Algorithms\Layout\Simple\Tree\SpanningTreeGeneration.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClassDiagrams\Algorithm Interfaces.cd" />
-    <None Include="ClassDiagrams\Implemented Algorithms.cd" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\QuickGraph\QuickGraph.csproj">
       <Project>{a9a5c115-0680-44b3-a87e-5ecf4c93814e}</Project>
       <Name>QuickGraph</Name>

@@ -395,15 +395,6 @@
     <Compile Include="VertexPredicate.cs" />
     <AppDesigner Include="Properties\" />
   </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="quickgraph.banner.png" />
-    <EmbeddedResource Include="quickgraph.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Algorithms\Cliques\ncliques.pdf" />
-    <None Include="quickgraph.snk" />
-    <None Include="Diagrams\TraversalInterfaces.cd" />
-  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
